@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.863df1ec.css","mappings":"AACA,eACI,iBACJ","sources":["game-data/VideoGame.css"],"sourcesContent":["/* https://stackoverflow.com/questions/9201125/center-an-id-in-a-html-page-using-css */\r\n#data {\r\n    text-align: center;\r\n}"],"names":[],"sourceRoot":""}
